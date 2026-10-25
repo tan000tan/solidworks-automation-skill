@@ -1,5 +1,8 @@
 # SolidWorks Automation Skill
 
+> [!NOTE]
+> 本仓库为 [`wzyn20051216/solidworks-automation-skill`](https://github.com/wzyn20051216/solidworks-automation-skill) 的同步镜像，内容与上游保持一致。新版本、Release 与 CI 状态请以上游仓库为准。
+
 **AI Skill + MCP toolkit for reliable desktop CAD automation.**
 
 让 Codex、Claude、Cursor 等 Agent 通过自然语言调用真实 CAD 软件，并对执行结果进行验证与追踪。
